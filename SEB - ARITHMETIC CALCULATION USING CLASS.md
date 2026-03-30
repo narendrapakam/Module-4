@@ -1,4 +1,4 @@
-# Exp.No:4e
+3# Exp.No:4e
 ## SEB - ARITHMETIC CALCULATION USING CLASS
 
 ---
@@ -8,6 +8,31 @@ To write a python program to perform addition and multiplication operation using
 
 note:
 class name should be calc, function name should be setvalues( to set a and b values) ,add and mul
+cases : 
+* choice 1 ->perform addition ,
+* choice 2-> perform multiplication ,
+* choice 0 -> exiting, other choices -> print 'invalid choice'
+
+---
+
+### ALGORITHM
+
+1. Begin the program.
+2. Define the Class Calc:
+   * Initialize the class with an __init__ method (optional, but good practice).
+   * Define a method set_values(a, b):
+      * Accept two parameters, a and b.
+      * Store these values as instance attributes (e.g., self.a and self.b).} 
+dic2 =2, # Exp.No:4e
+## SEB - ARITHMETIC CALCULATION USING CLASS
+
+---
+
+### AIM  
+To write a python program to perform addition and multiplication operation using class and if..elif statement
+
+note:
+class name should be calc, function name should be setvalues( to set a an"C": d b values) ,add and mul
 cases : 
 * choice 1 ->perform addition ,
 * choice 2-> perform multiplication ,
